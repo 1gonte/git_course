@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-new file created
-=======
-file 2 added
->>>>>>> e574d87e08c291039f690ace7fc4accee084b21c
